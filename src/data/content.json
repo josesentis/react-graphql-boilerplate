@@ -1,0 +1,59 @@
+
+{
+    "esade-exed": [
+      {
+        "type": "image",
+        "src": "/images/projects/esade-img-1.jpg"
+      }, {
+        "type": "video",
+        "src": "/images/projects/esade-video-1.mp4",
+        "poster": "/images/projects/esade-video-poster-1.jpg"
+      }, {
+        "type": "image",
+        "src": "/images/projects/esade-img-2.jpg"
+      }, {
+        "type": "video",
+        "src": "/images/projects/esade-video-2.mp4",
+        "poster": "/images/projects/esade-video-poster-2.jpg"
+      }, {
+        "type": "image",
+        "src": "/images/projects/esade-img-3.jpg"
+      }, {
+        "type": "image",
+        "src": "/images/projects/esade-img-4.jpg"
+      }, {
+        "type": "image",
+        "src": "/images/projects/esade-img-5.jpg"
+      }
+    ],
+    "vc-community": [
+      {
+        "type": "text",
+        "text": "InnoEnergy is a company that connects investors and startups to create effective and prosperous alliances. Its main objective was to create a web app so that communication between these two entities would be more independent and direct."
+      },
+      {
+        "type": "image",
+        "src": "/images/projects/innoenergy-img-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/projects/innoenergy-img-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/projects/innoenergy-img-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/projects/innoenergy-img-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/projects/innoenergy-img-5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/projects/innoenergy-img-6.jpg"
+      }
+    ]
+}
